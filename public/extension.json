@@ -1,10 +1,9 @@
 {
-  "name": "React Replit Extension Starter",
-  "description": "A starter template for a Replit Extension built with React",
-  "version": "0",
+  "name": "Nostr.it",
+  "description": "A Nostr Vending Machine Client",
   "tools": [
     {
-      "name": "Example Extension",
+      "name": "Nostr.it",
       "icon": "/favicon.svg",
       "handler": "/"
     }
